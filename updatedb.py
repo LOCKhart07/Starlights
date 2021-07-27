@@ -23,9 +23,9 @@ print("Initial values: ",tempx)
 
 # Configure firebase
 config = {     
-  "apiKey": "AAAAgO7gceU:APA91bE5phBPPs3hHDRZTuwQXu-hbRGY8Rpm4FT-t3fku07_6zd6Qw3EHCuW75fDTNDuqQ55dUTxzOpfJjjjLZpv29eC_pfofpyNjaoL8OH2RXPFnkYIL1esHYYrt5_0mF1nGp7gb5dK",
+  "apiKey": "",
   "authDomain": "lightsrpi.firebaseapp.com",
-  "databaseURL": "https://lightsrpi-default-rtdb.firebaseio.com/",
+  "databaseURL": "",
   "storageBucket": "lightsrpi.appspot.com"
 }
 try:
