@@ -2,4 +2,4 @@
 Android app to customize Christmas lights 
 
 ### Screenshots
-  ![](/Screenshots/starlightsApp.jpeg =250x250)
+  ![](/Screenshots/starlightsApp.jpeg)
